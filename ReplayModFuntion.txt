@@ -1,0 +1,13 @@
+To Run The Replay Mod first you have to join the server and record the clips 
+Step 1 : Join the server and Press ESC and start recording
+Step 2 : After completetion of recording just see the basics of the mod
+
+
+Click --> 
+
+
+Step 3: Install FFMPEG 
+
+Click --> 
+
+You're Done with the mod to access the replays just click right side of the 
