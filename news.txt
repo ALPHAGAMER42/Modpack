@@ -1,7 +1,9 @@
  Updates:
-     Made The Game More Stable 
-     Fixed Saddle Bug 
-     Fixed Twighlight snow rain Bug
-     Fixed Compability issue with graphics
-     Fixed Texture breaks
-     Added Create Mod
+     - Made The Game More Stable 
+     - Fixed Saddle Bug 
+     - Fixed Twighlight snow rain Bug
+     - Fixed Compability issue with graphics
+     - Fixed Texture breaks
+     - Added Create Mod
+     - Added Smooth Chunk Loading
+     - Updated Textures
