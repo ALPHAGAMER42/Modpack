@@ -1,2 +1,12 @@
  Updates:
-     - Working On Animations
+     - Animations are available ( still in development)
+     - Enhanced Footsteps
+     - New Backpacks
+     - New Tools & Armors
+     - New Quest System Using A New Block Called Shrine
+     - Chest Locks Are Introduced
+     - Wistleable Horses are added 
+     - Enhanced AI for The SPIDERS
+     - Tools will be displayed behind the back(Visual)
+     - Ingame Music Player
+     - New Blocks&Functions are Added
